@@ -1,0 +1,12 @@
+__pycache__
+dataset
+tokenizer.pkl
+filepath.py
+dataset
+monologg
+goemotion_model
+mysql_config.py
+postgresql_config.py
+oauth.json
+youtube_config.py
+DB_DATASET
