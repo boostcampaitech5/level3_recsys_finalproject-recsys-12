@@ -1,4 +1,4 @@
-![KakaoTalk_20230727_180402095]()
+![KakaoTalk_20230727_180402095](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-12/blob/main/Data/image/cover.png)
 <br></br>
 
 ## 1. Introduction
@@ -87,5 +87,5 @@
 <br></br><br></br><br></br>
 **🕵️Members🕵️**
 
-![initial](https://github.com/boostcampaitech5/level3_recsys_productserving-recsys-12/assets/97236643/5fc29983-bb40-493d-b611-64fa46566b20)
+![initial](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-12/blob/main/Data/image/Oneteam.png)
 
